@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/betalectic/prettier-config.git"
+    "url": "https://github.com/nadpraveen/prettier-config.git"
   },
   "keywords": [
     "prettier-config",
@@ -17,7 +17,7 @@
   "author": "Praveen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/betalectic/prettier-config/issues"
+    "url": "https://github.com/nadpraveen/prettier-config/issues"
   },
-  "homepage": "https://github.com/betalectic/prettier-config#readme"
+  "homepage": "https://github.com/nadpraveen/prettier-config#readme"
 }
