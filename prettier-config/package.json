@@ -1,0 +1,23 @@
+{
+  "name": "prettier-config",
+  "version": "1.1.1",
+  "description": "This is prettier config file for betalectic projects",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/betalectic/prettier-config.git"
+  },
+  "keywords": [
+    "prettier-config",
+    "betalectic"
+  ],
+  "author": "Praveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betalectic/prettier-config/issues"
+  },
+  "homepage": "https://github.com/betalectic/prettier-config#readme"
+}

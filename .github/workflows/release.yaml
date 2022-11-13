@@ -1,0 +1,19 @@
+name: "prettier-config"
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  release:
+    name: prettier-config-release
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📚 checkout
+        uses: actions/checkout@v2.1.1
+      - name: 🚀 publish
+        run: npm publish --access public
+        working-directory: ./prettier-config
+        env:
+          NODE_AUTH_TOKEN: ${{secrets.NPM_AUTH_TOKEN}}
