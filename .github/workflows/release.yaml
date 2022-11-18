@@ -1,4 +1,4 @@
-name: "prettier-config"
+name: "techunico-prettier-config"
 
 on:
   push:
