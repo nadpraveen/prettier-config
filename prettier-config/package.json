@@ -1,6 +1,6 @@
 {
   "name": "techunico-prettier-config",
-  "version": "1.1.2",
+  "version": "1.2.0",
   "description": "This is prettier config file for betalectic projects",
   "main": "index.json",
   "repository": {
