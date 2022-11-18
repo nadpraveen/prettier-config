@@ -1,5 +1,5 @@
 {
-  "name": "prettier-config",
+  "name": "techunico-prettier-config",
   "version": "1.1.1",
   "description": "This is prettier config file for betalectic projects",
   "main": "index.json",
